@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "naver.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'naver.api.url'"
+  },
+  {
+    "name": "naver.api.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'naver.api.client-id'"
+  },
+  {
+    "name": "naver.api.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'naver.api.client-secret'"
+  }
+]}
